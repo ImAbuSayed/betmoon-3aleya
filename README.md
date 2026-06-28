@@ -16,10 +16,12 @@
 |-------|---------|
 | **Title** | Betmoon 3aleya |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 28, 2026 |
+| **Written On** | June 27, 2026 |
+| **Created On** | June 27, 2026 at 3:37 AM |
+| **Released On** | June 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/betmoon-3aleya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Betmoon 3aleya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/betmoon-3aleya/) |
+| **Get License** | [Commercial Licensing for Betmoon 3aleya](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=QLvdNPByISs?https://imabusayed.github.io/betmoon-3aleya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -49,6 +51,7 @@
 ## 🔗 Song Links
 
 - [Telegram](https://t.me/AbuSayedMusic/4594)
+- [YouTube](https://www.youtube.com/watch?v=QLvdNPByISs)
 
 ---
 
