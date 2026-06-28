@@ -21,7 +21,7 @@
 | **Released On** | June 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/betmoon-3aleya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Betmoon 3aleya](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=QLvdNPByISs?https://imabusayed.github.io/betmoon-3aleya/) |
+| **Get License** | [Get a Licensing Quote for Betmoon 3aleya](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=QLvdNPByISs?https://imabusayed.github.io/betmoon-3aleya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
