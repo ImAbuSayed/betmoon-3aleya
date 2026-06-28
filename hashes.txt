@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Betmoon 3aleya
+
+This log tracks the cryptographic history and versioning for the song **Betmoon 3aleya** (betmoon-3aleya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T15:02:56.542429 | `v1` | `aa130529f1451166c9c2826ba61032fe1e7310056699a8e97e666c0461b9ca9b` | `ea67772ee440fada43b0ee124ae6342a1ed9a5dc504790416b2b3366452510d0` | `2026-06-28_betmoon-3aleya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
